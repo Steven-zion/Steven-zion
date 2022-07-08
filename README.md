@@ -34,7 +34,7 @@
 
 - :zap: I give advices to begginers on Twitter and discord and also read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/steven-oketch-704457208)
+- :mailbox:How to reach me: [![LTwitter Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://twitter.com/iSteven_zion)
   
   
   ---
