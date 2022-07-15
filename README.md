@@ -28,7 +28,7 @@
   ---
 
 ### 👨‍💻About Me :
-  I am creative problem solving Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="42" height="32px"> from Kenya.
+  I am creative problem solving Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="30px"> from Kenya.
   - :telescope: I’m working as a Front-end developer and also focus on backend technology
 - :seedling: Exploring Technical Content Writing on hashnode
 
