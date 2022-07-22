@@ -18,21 +18,21 @@
   
   <h1>
   Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" height="27px"/>
   </h1>
     
   <div align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="650" height="300"/>
   </div>
   
   ---
 
 ### 👨‍💻About Me :
-  I am creative problem solving Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="30px"> from Kenya.
+  I'm a creative problem solving Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="30px"> from Kenya.
   - :telescope: I’m working as a Front-end developer and also focus on backend technology
-- :seedling: Exploring Technical Content Writing on hashnode
+- :seedling: I Explore Technical Content Writing on hashnode
 
-- :zap: I give advices to begginers on Twitter and discord and also read tech articles.
+- :zap: I offer mentorship to begginers on Twitter and discord and also read tech articles.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iSteven_zion)
   
