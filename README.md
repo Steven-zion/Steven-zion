@@ -17,12 +17,12 @@
   <img src="https://komarev.com/ghpvc/?username=Steven-zion&style=flat-square&color=blue" alt=""/>
   
   
- #### Hey there
+ <h2> Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" height="27px"/>
-  
-    
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="650" height="300" align="center"/>
-  
+  </h2
+  <div align="center">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="650" height="300"/>
+  </div>
   
   ---
 
