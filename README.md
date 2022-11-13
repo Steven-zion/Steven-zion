@@ -30,12 +30,6 @@
   I'm a creative problem solving Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="30px"> from Kenya.
   - :telescope: I’m working as a Front-end developer and also focus on backend technology
 - :seedling: I Explore Technical Content Writing on hashnode
-
-- :zap: I offer mentorship to begginers on Twitter and discord and also read tech articles.
-
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/iSteven_zion)
-  
-  
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
