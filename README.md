@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="240" height="140"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/steven-oketch-704457208/">
+  <a href="https://www.linkedin.com/in/steven-oketch">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCHiel-1M5FJ_rhha5nhHJ4Q">
