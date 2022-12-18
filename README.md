@@ -50,5 +50,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Steven-zion&theme=dark&background=000000&hide_border=true&dates=C5CB2D&ring=DD6717&sideNums=2DB930&stroke=DD2727&currStreakLabel=3CB929&currStreakNum=C7DD38)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-zion&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-zion&show_icons=true&theme=radical)
 
 </div>
