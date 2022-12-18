@@ -51,6 +51,6 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Steven-zion&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-zion&show_icons=true&theme=radical)
+  ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steven-zion&layout=compact&theme=vision-friendly-dark&hide_border=true&show_icons=true)
 
 </div>
