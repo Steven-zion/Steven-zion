@@ -22,8 +22,8 @@
   ---
 
 ### 👨‍💻About Me :
- - I'm a creative problem solving Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="30px"> from Kenya.
- -  I’m working as a Front-end developer and also focus on backend technology
+ - I'm a creative problem solving Frontend software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px" height="30px"> from Kenya.
+ -  I’m working as a Frontend developer and also focus on backend technology
 - I Explore Technical Content Writing on hashnode
 
 ### :hammer_and_wrench: Languages and Tools :
