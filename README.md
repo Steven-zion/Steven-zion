@@ -29,7 +29,7 @@
 <ul>
   <li>🔭 I'm currently working on <strong>an AI-powered productivity mobile app</strong></li>
   <li>🌱 I'm currently mastering <strong>AI Integrations, TypeScript and DevOps</strong></li>
-  <li>👯 I'm looking to collaborate on <strong>open-source projects and innovative web applications</strong></li>
+  <li>👯 I'm open to collaborate on <strong>open-source projects and innovative web apps</strong></li>
   <li>💬 Ask me about <strong>React, Node.js, and full-stack architecture</strong></li>
   <li>📫 How to reach me: <strong>Connect with me via LinkedIn or Email</strong></li>
   <li>⚡ Fun fact: <strong>I can tell a persons nature by talking to them in under 2 minutes</strong></li>
