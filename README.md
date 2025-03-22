@@ -23,7 +23,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
 
 <p>
-  Hello there! I'm <strong>Steven</strong>, a passionate Full-Stack Developer with a love for creating elegant solutions to complex problems. I specialize in building responsive and performant web applications using modern technologies.
+  Hello there! I'm <strong>Steven</strong>, a passionate Full-Stack Developer with a love for creating elegant solutions to complex problems. I specialize in building responsive and performant web & android/ios applications using modern technologies.
 </p>
 
 <ul>
