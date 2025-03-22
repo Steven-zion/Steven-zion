@@ -51,9 +51,10 @@
   <h3>Frameworks & Libraries</h3>
   <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
+    <a href="#"><img alt="Expo" src="https://img.shields.io/badge/Expo-000020.svg?logo=expo&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"></a>
     <a href="#"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"></a>
   </p>
   
