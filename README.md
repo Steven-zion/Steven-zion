@@ -32,7 +32,7 @@
   <li>👯 I'm open to collaborate on <strong>open-source projects and innovative web apps</strong></li>
   <li>💬 Ask me about <strong>React, Node.js, and full-stack architecture</strong></li>
   <li>📫 How to reach me: <strong>Connect with me via LinkedIn or Email</strong></li>
-  <li>⚡ Fun fact: <strong>I can tell a persons nature by talking to them in under 2 minutes</strong></li>
+  <li>⚡ Fun fact: <strong>I love reading books on human psychology</strong></li>
 </ul>
 
 <!-- Tech Stack Section -->
