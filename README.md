@@ -20,20 +20,9 @@
 <!-- About Me Section -->
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <strong>ABOUT ME</strong></h2>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"></picture>
-
 <p>
-  Hello there! I'm <strong>Steven</strong>, a passionate Full-Stack Developer with a love for creating elegant solutions to complex problems. I specialize in building responsive and performant web & android/ios applications using modern technologies.
+  Hello there! I'm <strong>Steven</strong>, ​a full-stack engineer (5+ yrs) specializing in high-concurrency Node.js microservices, MERN stack architecture, and production GenAI integrations. Based in Nairobi (EAT), I operate as an autonomous contractor for cross-border teams across EMEA and CET time zones delivering scalable software for startups, logistics platforms and fintech systems.
 </p>
-
-<ul>
-  <li>🔭 I'm currently working on <strong>an AI-powered productivity mobile app</strong></li>
-  <li>🌱 I'm currently mastering <strong>AI Integrations</strong></li>
-  <li>👯 I'm open to collaborate on <strong>open-source projects and innovative web apps</strong></li>
-  <li>💬 Ask me about <strong>React, Node.js, and full-stack architecture</strong></li>
-  <li>📫 How to reach me: <strong>Connect with me via LinkedIn or Email</strong></li>
-  <li>⚡ Fun fact: <strong>I love reading books on human psychology</strong></li>
-</ul>
 
 <!-- Tech Stack Section -->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> <strong>TECH STACK</strong></h2>
